@@ -12,7 +12,6 @@ Download files and run in terminal. The terminal will open the browser and you w
 https://burger0743.herokuapp.com/
 
 ## Credits
-This was compiled using a variety of sources including class notes and powerpoints, assistance from the TAs and instructor and websites like W3Schools.com. Also used the Bootstrap for the styling. One of my classmates Jee Zhou assisted with getting some of the functionalitly working. 
-
+This was compiled using a variety of sources including class notes and powerpoints, assistance from the TAs and instructor and websites like W3Schools.com. Also used the Bootstrap for the styling. One of my classmates Jee Zhou assisted with getting some of the functionalitly working. The TA, Jimi, assisted with the deployment. 
 
 
